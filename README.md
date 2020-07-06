@@ -32,4 +32,4 @@ At the end of this project (Image Classifier Project.ipynb), you'll have an appl
 
 # NOTE: 
 This repo doesn't contain any datasets of images. You have to download them manually to your current working directory from the link mentioned above
-in the README section. The datasets has to be divided into three sub datasets each one for training, validating and testing before you run the python files. 
+in the README section. The datasets has to be divided into three sub datasets each one for training, validation and testing before you run the python files. 
