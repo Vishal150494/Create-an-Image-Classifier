@@ -28,3 +28,8 @@ At the end of this project (Image Classifier Project.ipynb), you'll have an appl
   is used to define functions and classes related to the model such as train, test, validate, save and load checkpoint and prediction. 
 - Run `train.py` to train a new network on the dataset and save the model as a checkpoint. 
 - Finally, run `predict.py` to use the trained network to predict the class for an input image.  
+
+
+# NOTE: 
+This repo doesn't contain any datasets of images. You have to download them manually to your current working directory from the link mentioned above
+in the README section. The datasets has to be divided into three sub datasets each one for training, validating and testing before you run the python files. 
