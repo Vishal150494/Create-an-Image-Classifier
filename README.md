@@ -13,7 +13,7 @@ The project is broken down into multiple steps:
 At the end of this project (Image Classifier Project.ipynb), you'll have an application that can be trained on any set of labeled images. Here your network will be learning about flowers and end up as a command line application. For example, imagine an app where you take a picture of a car, it tells you what the make and model is, then looks up information about it. 
 
 ### Requirements
-- Python 3.6
+- Python 3.8
 - Pytorch
 - CUDA 
 
