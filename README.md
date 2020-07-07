@@ -18,7 +18,7 @@ At the end of this project (Image Classifier Project.ipynb), you'll have an appl
 - CUDA 
 
 ### Steps to run the code
-- First download the datasets of images with flowers. You can use the followung link to download tha datasets. 
+- First download the datasets of images with flowers. You can use the following link to download tha datasets. 
   (http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html)
 - Once downloaded, load the datasets using `torchvision` and run the `Image Classifier Project`. This is the part one of this project. 
 - The second part includes building the command line application. 
